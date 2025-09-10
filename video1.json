@@ -1,0 +1,70 @@
+{
+  "videoId": "123abc",
+  "boxes": [
+    {
+      "timeMs": 1000,
+      "boxDimensions": {
+        "points": {
+          "topLeft": [800, 400],
+          "topRight": [1000, 400],
+          "bottomRight": [1000, 600],
+          "bottomLeft": [800, 600]
+        },
+        "width": 200,
+        "height": 200
+      }
+    },
+    {
+      "timeMs": 2000,
+      "boxDimensions": {
+        "points": {
+          "topLeft": [810, 410],
+          "topRight": [1010, 410],
+          "bottomRight": [1010, 610],
+          "bottomLeft": [810, 610]
+        },
+        "width": 200,
+        "height": 200
+      }
+    },
+    {
+      "timeMs": 3000,
+      "boxDimensions": {
+        "points": {
+          "topLeft": [820, 420],
+          "topRight": [1020, 420],
+          "bottomRight": [1020, 620],
+          "bottomLeft": [820, 620]
+        },
+        "width": 200,
+        "height": 200
+      }
+    },
+    {
+      "timeMs": 4000,
+      "boxDimensions": {
+        "points": {
+          "topLeft": [830, 430],
+          "topRight": [1030, 430],
+          "bottomRight": [1030, 630],
+          "bottomLeft": [830, 630]
+        },
+        "width": 200,
+        "height": 200
+      }
+    },
+    {
+      "timeMs": 5000,
+      "boxDimensions": {
+        "points": {
+          "topLeft": [840, 440],
+          "topRight": [1040, 440],
+          "bottomRight": [1040, 640],
+          "bottomLeft": [840, 640]
+        },
+        "width": 200,
+        "height": 200
+      }
+    }
+  ]
+}
